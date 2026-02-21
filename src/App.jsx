@@ -1,9 +1,9 @@
 export default function App() {
   return (
-    <div style={{ padding: 24 }}>
-      <h1>TaskNova</h1>
-      <p>Frontend initialized ✅</p>
+    <div className="min-h-screen flex items-center justify-center">
+      <button className="btn btn-primary">
+        TaskNova 🚀
+      </button>
     </div>
   );
 }
-
